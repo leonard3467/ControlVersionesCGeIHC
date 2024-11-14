@@ -1,0 +1,31 @@
+Primeros Keyframes:
+Keyframe [0]:
+movNave_x: 0
+movNave_y: 0
+giroNave: 0
+------------------
+Keyframe [1]:
+movNave_x: 70
+movNave_y: 0
+giroNave: 0
+------------------
+Keyframe [2]:
+movNave_x: 70
+movNave_y: 0
+giroNave: 180
+------------------
+Keyframe [3]:
+movNave_x: 0
+movNave_y: 0
+giroNave: 180
+------------------
+Keyframe [4]:
+movNave_x: 0
+movNave_y: 0
+giroNave: 0
+------------------
+Keyframe [5]:
+movNave_x: -1.2964e-06
+movNave_y: 0
+giroNave: -3.72529e-06
+------------------
